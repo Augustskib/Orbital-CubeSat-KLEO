@@ -67,7 +67,7 @@ void teardownTopology(const TopologyState& state);
 void startRateGroups();
 
 /**
- * \brief stop the rate groups 
+ * \brief stop the rate groups
  *
  * This stops the cycle started by startRateGroups.
  */
