@@ -1,0 +1,6 @@
+[submodule "zephyr/lib/fprime"]
+    path = zephyr/lib/fprime
+    url = https://github.com/nasa/fprime.git
+[submodule "zephyr/lib/fprime-zephyr"]
+    path = zephyr/lib/fprime-zephyr
+    url = https://github.com/Open-Source-Space-Foundation/fprime-zephyr.git

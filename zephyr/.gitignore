@@ -1,0 +1,28 @@
+# fprime items
+logs/
+cmake-build-*
+build-artifacts/
+build-fprime-*
+*-template
+*.template.cpp
+*.template.hpp
+
+# Misc
+/venv/
+/fprime-venv/
+/.idea/
+/.vscode/
+.DS_Store
+*.gcov
+
+# Downloaded dependencies and local West metadata
+/.west/
+/lib/zephyr-workspace/
+/.venv*/
+# Local hardware data and generated images
+captures/
+backups/
+*.bin
+*.uf2
+*.elf
+*.hex
