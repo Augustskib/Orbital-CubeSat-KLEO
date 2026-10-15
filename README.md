@@ -17,6 +17,8 @@ current, voltage and power sensor driver.
 
 ## Contents
 
+- [October 14 progress and INA260 driver notes](docs/progress/2026-10-14-ina260.md).
+
 - [Zephyr development status](zephyr/DEVELOPMENT.md): initial F Prime scaffold,
   known build issues, dependency versions and separation from the driver tests.
 - [INA260 module](zephyr/modules/kleo-ina260/README.md): driver, devicetree binding,
