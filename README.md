@@ -8,6 +8,13 @@ The project uses the PROVES platform. Current work here focuses on F Prime,
 Zephyr, and bring-up of a **PROVES V5c flight controller**, including an INA260
 current, voltage and power sensor driver.
 
+## Project hardware
+
+| Satellite | PROVES V5c flight controller |
+| :---: | :---: |
+| <img src="docs/images/kleo-satellite.jpg" alt="CubeSat assembly with solar panels and deployed tape antennas" width="360"> | <img src="docs/images/proves-v5c-flight-controller.jpg" alt="PROVES V5c flight controller board used for hardware bring-up" width="360"> |
+| CubeSat assembly with solar panels and antennas. | V5c flight controller used for development and hardware bring-up. |
+
 ## Contents
 
 - [Zephyr development status](zephyr/DEVELOPMENT.md): initial F Prime scaffold,
